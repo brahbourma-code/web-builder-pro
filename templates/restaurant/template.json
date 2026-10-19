@@ -1,0 +1,18 @@
+{
+  "id": "tpl-restaurant-01",
+  "name": "Restaurant Modern",
+  "category": "Restaurant",
+  "version": "1.0.0",
+  "description": "Template moderne pour restaurant, menu et réservation.",
+  "defaults": {
+    "brand": {
+      "primaryColor": "#b12d2d",
+      "accentColor": "#f6d365",
+      "fontStack": "Inter, system-ui, sans-serif"
+    },
+    "pages": [
+      { "slug": "index", "title": "Accueil" },
+      { "slug": "menu", "title": "Carte" }
+    ]
+  }
+}
